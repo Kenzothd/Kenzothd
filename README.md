@@ -5,13 +5,14 @@ I am a highly driven full-stack developer who appreciates solving real world pro
 - I am currently working on ShoeDog Project
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kenzothd/)!
 
-Here are some of the summary of my experiences so far: <br>
+## Here are some of the summary of my experiences so far: <br>
+
 ❖ Front-End: Typescript, JavaScript, ES6, React.js, REST APIs <br>
 ❖ Back-End: MongoDB, Express.js, Node.js, Python, Flask, PostgreSQL, SQL <br>
 ❖ Familiar: HTML5, CSS3, Tailwind, Material UI <br>
 ❖ Tools: Git, NPM, VS Code, Chrome Dev tool, Vercel, Render, Cyclic <br>
 
-Check out my recent work:
+## Check out my recent work:
 
 [ShoeDog](https://shoedog.vercel.app/) 👟📊 (In progress) <br>
 Have you considered using an e-commerce marketplace built with statistical data to track your favourite pair of shoes? ShoeDog is a website where shoe aficionados may purchase and sell shoes. It offers real-time data, alert prompts, and the ability to keep track of the status of a favourite pair of shoes.

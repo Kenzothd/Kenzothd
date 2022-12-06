@@ -1,4 +1,4 @@
-#Hi there, I am Kenzo 👋
+# Hi there, I am Kenzo 👋
 
 I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions.
 

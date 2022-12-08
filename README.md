@@ -6,7 +6,7 @@ _I am a highly driven full-stack developer who appreciates solving real world pr
 - Feel free to connect with me on **<a align="center" href="https://www.linkedin.com/in/kenzothd/">Linked<img alt="Kenzo's LinkedIn" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>**
 
-## Here are some of the summary of my experiences so far: <br>
+## Here is the summary of my experiences so far: <br>
 
 ❖ Front-End: Typescript, JavaScript, ES6, React.js, REST APIs <br>
 ❖ Back-End: MongoDB, Express.js, Node.js, Python, Flask, PostgreSQL, SQL <br>

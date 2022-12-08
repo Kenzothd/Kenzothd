@@ -3,8 +3,8 @@
 _I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions._
 
 - I am currently working on ShoeDog Project
-- Feel free to connect with me on <a align="bottom" href="https://www.linkedin.com/in/kenzothd/">Linked<img alt="Kenzo's LinkedIn" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
+- Feel free to connect with me on **<a align="bottom" href="https://www.linkedin.com/in/kenzothd/">Linked<img alt="Kenzo's LinkedIn" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>**
 
 ## Here are some of the summary of my experiences so far: <br>
 

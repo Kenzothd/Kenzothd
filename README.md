@@ -1,4 +1,4 @@
-# Hi there, I am Kenzo 👋 ![](https://visitor-badge.glitch.me/badge?page_id=Kenzothd)
+# Hi there, I am Kenzo 👋 ![](https://komarev.com/ghpvc/?username=Kenzothd)
 
 _I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions._
 

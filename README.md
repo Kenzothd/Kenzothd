@@ -1,4 +1,4 @@
-# Hi there, I am Kenzo 👋 ![](https://komarev.com/ghpvc/?username=Kenzothd&label=PROFILE+VIEWS&style=flat-square&color=yellow")
+# Hi there, I am Kenzo 👋 ![](https://komarev.com/ghpvc/?username=Kenzothd&label=PROFILE+VIEWS&style=flat-square&color=yellowgreen")
 
 _I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions._
 

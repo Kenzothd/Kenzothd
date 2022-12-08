@@ -1,7 +1,10 @@
-# Hi there, I am Kenzo 👋 <a href="https://www.linkedin.com/in/kenzothd/">
+# Hi there, I am Kenzo 👋
 
+<a href="https://www.linkedin.com/in/kenzothd/">
 <img align="left" alt="Kenzo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> ![](https://visitor-badge.glitch.me/badge?page_id=Kenzothd)
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Kenzothd)
 
 _I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions._
 

@@ -4,7 +4,7 @@ _I am a highly driven full-stack developer who appreciates solving real world pr
 
 - I am currently working on ShoeDog Project
 - Feel free to connect with me on<a align="center" href="https://www.linkedin.com/in/kenzothd/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
+  LinkedIn<img alt="Kenzo's LinkedIN" width="10px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 
 ## Here are some of the summary of my experiences so far: <br>

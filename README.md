@@ -1,6 +1,6 @@
 # Hi there, I am Kenzo 👋
 
-I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions.
+_I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions._
 
 - I am currently working on ShoeDog Project
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kenzothd/)!

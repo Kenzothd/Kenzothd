@@ -3,7 +3,7 @@
 _I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions._
 
 - I am currently working on ShoeDog Project
-- Feel free to connect with me on [Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenzothd/)!
+- Feel free to connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenzothd/)!
 
 ## Here are some of the summary of my experiences so far: <br>
 

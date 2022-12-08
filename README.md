@@ -1,15 +1,9 @@
-# Hi there, I am Kenzo 👋
-
-<a href="https://www.linkedin.com/in/kenzothd/">
-<img align="left" alt="Kenzo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Kenzothd)
+# Hi there, I am Kenzo 👋 ![](https://visitor-badge.glitch.me/badge?page_id=Kenzothd)
 
 _I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions._
 
 - I am currently working on ShoeDog Project
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kenzothd/)!
+- Feel free to connect with me on <span align="center" >[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenzothd/)! </span>
 
 ## Here are some of the summary of my experiences so far: <br>
 

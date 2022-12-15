@@ -2,9 +2,14 @@
 
 _I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions._
 
-- I am currently working on ShoeDog Project
-- Feel free to connect with me on **<a align="center" href="https://www.linkedin.com/in/kenzothd/">Linked<img alt="Kenzo's LinkedIn" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>**
+I am currently working on:
+
+- Learning Java
+- Learning Data Structures and Algorithm
+- Revising Shoedog Project <a href="https://www.figma.com/file/R3KFHdSDhXDEP2dcyy4HSv/ShoeDog?node-id=0%3A1&t=cmePQZLjIHfMzRKh-1">Wireframed using Figma</a>
+
+Feel free to connect with me on **<a align="center" href="https://www.linkedin.com/in/kenzothd/">Linked<img alt="Kenzo's LinkedIn" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>**
 
 ## Here is a summary of my experiences so far: <br>
 

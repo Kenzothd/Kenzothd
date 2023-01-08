@@ -13,7 +13,7 @@ Feel free to connect with me on **<a align="center" href="https://www.linkedin.c
 
 ## Here is a summary of my experiences so far: <br>
 
-❖ Front-End: Typescript, JavaScript, ES6, React.js, REST APIs <br>
+❖ Front-End: Typescript, JavaScript, ES6, React.js, Redux, REST APIs <br>
 ❖ Back-End: MongoDB, Express.js, Node.js, Python, Flask, PostgreSQL, SQL <br>
 ❖ Familiar: HTML5, CSS3, Tailwind, Material UI <br>
 ❖ Tools: Git, NPM, VS Code, Chrome Dev tool, Vercel, Render, Cyclic <br>
@@ -37,3 +37,7 @@ An NFT web application tool to track NFT collection statistics. Statistics featu
 Exploding Kittens is a highly strategic, kitty-powered version of Russian Roulette. Basically, if you draw an Exploding Kitten, you lose and you are full of loser sad-sauce. All the other cards in the deck help you avoid or mitigate your risk of drawing an Exploding Kitten. If you don't explode, YOU WIN!
 
 This application is my first project during the SEI course in General Assembly. It is not an official Exploding Kittens app.
+
+[Redux To-do List](https://redux-todos-kenzothd.vercel.app/)
+<br >
+Utilized Redux toolkit to create a To-do list coded in typescript.

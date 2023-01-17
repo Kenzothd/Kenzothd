@@ -6,7 +6,7 @@ I am currently working on:
 
 - Learning Java
 - Learning Data Structures and Algorithm
-- Revising Shoedog Project (Reference: <a href="https://www.figma.com/file/R3KFHdSDhXDEP2dcyy4HSv/ShoeDog?node-id=0%3A1&t=cmePQZLjIHfMzRKh-1">Shoedog Figma</a>)
+- Revising Shoedog Project (Reference: <a href="https://www.figma.com/file/R3KFHdSDhXDEP2dcyy4HSv/ShoeDog?node-id=0%3A1&t=cmePQZLjIHfMzRKh-1">Shoedog Figma</a> , <a href="https://drive.google.com/file/d/1rZTL4pdaRPxEEp2aebjG9BIismeefMno/view?usp=sharing">Shoedog Data Flow</a>)
 
 Feel free to connect with me on **<a align="center" href="https://www.linkedin.com/in/kenzothd/">Linked<img alt="Kenzo's LinkedIn" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>**
@@ -38,6 +38,5 @@ Exploding Kittens is a highly strategic, kitty-powered version of Russian Roulet
 
 This application is my first project during the SEI course in General Assembly. It is not an official Exploding Kittens app.
 
-[Redux To-do List](https://redux-todos-kenzothd.vercel.app/)
-<br >
+[Redux To-do List](https://redux-todos-kenzothd.vercel.app/) 📝 <br >
 Utilized Redux toolkit to create a To-do list coded in typescript.

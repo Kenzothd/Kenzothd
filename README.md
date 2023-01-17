@@ -6,9 +6,9 @@ I am currently working on:
 
 - Learning Java
 - Learning Data Structures and Algorithm
-- Revising Shoedog Project (Reference: <a href="https://www.figma.com/file/R3KFHdSDhXDEP2dcyy4HSv/ShoeDog?node-id=0%3A1&t=cmePQZLjIHfMzRKh-1">Shoedog Figma</a> , <a href="https://drive.google.com/file/d/1rZTL4pdaRPxEEp2aebjG9BIismeefMno/view?usp=sharing">Shoedog Data Flow</a>)
+- Revising Shoedog Project (Reference: <a href="https://www.figma.com/file/R3KFHdSDhXDEP2dcyy4HSv/ShoeDog?node-id=0%3A1&t=cmePQZLjIHfMzRKh-1" target="_blank">Shoedog Figma</a> , <a href="https://drive.google.com/file/d/1rZTL4pdaRPxEEp2aebjG9BIismeefMno/view?usp=sharing" target="_blank">Shoedog Data Flow</a>)
 
-Feel free to connect with me on **<a align="center" href="https://www.linkedin.com/in/kenzothd/">Linked<img alt="Kenzo's LinkedIn" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+Feel free to connect with me on **<a align="center" href="https://www.linkedin.com/in/kenzothd/" target="_blank">Linked<img alt="Kenzo's LinkedIn" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>**
 
 ## Here is a summary of my experiences so far: <br>

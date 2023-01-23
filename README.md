@@ -21,7 +21,7 @@ Feel free to connect with me on **<a align="center" href="https://www.linkedin.c
 ## Check out my recent work:
 
 [ShoeDog](https://shoedog.vercel.app/) 👟📊 (In progress) <br>
-Have you considered using an e-commerce marketplace built with statistical data to track your favourite pair of shoes? ShoeDog is a website where shoe aficionados may purchase and sell shoes. It offers real-time data, alert prompts, and the ability to keep track of the status of a favourite pair of shoes.
+Have you considered using an e-commerce marketplace built with statistical data to track your favourite pair of shoes? ShoeDog is a website where shoe aficionados may purchase and sell shoes. It offers mocked shoe data, real-time alert prompt, and the ability to keep track of the status of a favourite pair of shoes.
 
 [IDealify](https://idealify.vercel.app/) 🏠 <br>
 Remodel your house in confidence. IDealify was built to establish trust between homeowners and interior designers. It is a one-stop project management tool which enables both parties to monitor the task at hand.

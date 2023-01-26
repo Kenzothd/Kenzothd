@@ -21,10 +21,10 @@ Feel free to connect with me on **<a align="center" href="https://www.linkedin.c
 ## Check out my recent work:
 
 [ShoeDog](https://shoedog.vercel.app/) 👟📊 (In progress) <br>
-Have you considered using an e-commerce marketplace built with statistical data to track your favourite pair of shoes? ShoeDog is a website where shoe aficionados may purchase and sell shoes. It offers mocked shoe data, real-time alert prompt, and the ability to keep track of the status of a favourite pair of shoes.
+Introducing ShoeDog, the revolutionary e-commerce marketplace for shoe enthusiasts. Built with the latest technologies such as ReactTS, Flask, Python, and PostgreSQL, it offers access to more than 100,000 mocked shoe data, real-time alerts for your favourite shoe, and the ability to track the status of those hard-to-find shoes.
 
 [IDealify](https://idealify.vercel.app/) 🏠 <br>
-Remodel your house in confidence. IDealify was built to establish trust between homeowners and interior designers. It is a one-stop project management tool which enables both parties to monitor the task at hand.
+Remodel your house in confidence. Idealify offers a hassle-free home remodelling experience. Built with MERN, it fosters trust and transparency between clients and interior designers. With our one-stop project management solution, you can remodel your home with a peace of mind.
 
 This project exposed me to working with real-world teams with various software engineers to turn concepts into functionality.
 

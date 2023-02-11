@@ -1,6 +1,6 @@
 # Hi there, I am Kenzo 👋 ![](https://komarev.com/ghpvc/?username=Kenzothd&label=PROFILE+VIEWS&style=flat-square")
 
-_I am a highly driven full-stack developer who appreciates solving real world problems with cutting edge solutions._
+I am a passionate full-stack developer with a knack for transforming data into clear and impactful insights, solving real-world problems, and improving decision-making.
 
 I am currently working on:
 
@@ -14,14 +14,14 @@ Feel free to connect with me on **<a align="center" href="https://www.linkedin.c
 ## Here is a summary of my experiences so far: <br>
 
 ❖ Front-End: Typescript, JavaScript, ES6, React.js, Redux, REST APIs <br>
-❖ Back-End: MongoDB, Express.js, Node.js, Python, Flask, PostgreSQL, SQL <br>
+❖ Back-End: MongoDB, Express.js, Node.js, Python, Flask, PostgreSQL, SQL, Java <br>
 ❖ Familiar: HTML5, CSS3, Tailwind, Material UI <br>
 ❖ Tools: Git, NPM, VS Code, Chrome Dev tool, Vercel, Render, Cyclic <br>
 
 ## Check out my recent work:
 
 [ShoeDog](https://shoedog.vercel.app/) 👟📊 (In progress) <br>
-Introducing ShoeDog, the revolutionary e-commerce marketplace for shoe enthusiasts. Built with the latest technologies such as ReactTS, Flask, Python, and PostgreSQL, it offers access to more than 100,000 mocked shoe data, real-time alerts for your favourite shoe, and the ability to track the status of those hard-to-find shoes.
+Introducing ShoeDog, the revolutionary e-commerce marketplace for shoe enthusiasts. Built with the latest technologies such as ReactTS, Flask, Python, and PostgreSQL, it offers access to more than 100,000 mocked shoe listing data, real-time alerts for your favourite shoe, and the ability to track the status of those hard-to-find shoes.
 
 [IDealify](https://idealify.vercel.app/) 🏠 <br>
 Remodel your house in confidence. Idealify offers a hassle-free home remodelling experience. Built with MERN, it fosters trust and transparency between clients and interior designers. With our one-stop project management solution, you can remodel your home with a peace of mind.

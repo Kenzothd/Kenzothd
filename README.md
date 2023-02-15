@@ -1,6 +1,6 @@
 # Hi there, I am Kenzo 👋 ![](https://komarev.com/ghpvc/?username=Kenzothd&label=PROFILE+VIEWS&style=flat-square")
 
-I am a passionate full-stack developer with a knack for transforming data into clear and impactful insights, solving real-world problems, and improving decision-making.
+I am a passionate Software Engineer with a knack for transforming data into clear and impactful insights, always looking to stay ahead of the curve with new technologies. My experience in launching an NFT website has honed my strategic thinking and problem-solving skills. I'm eager to apply my analytical and creative abilities to software development and value creation.
 
 I am currently working on:
 

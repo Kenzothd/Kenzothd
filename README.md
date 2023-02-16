@@ -1,4 +1,4 @@
-# Hi there, I am Kenzo <img src="./assets/wave.gif" width="24px"alt="wave" />
+# Hi there, I am Kenzo <img src="assets/wave.gif" width="24px" alt="wave" />
 
 ![](https://komarev.com/ghpvc/?username=Kenzothd&label=PROFILE+VIEWS&style=flat-square")
 

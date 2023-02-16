@@ -15,7 +15,7 @@ Feel free to:
 - Connect with me on **<a align="center" href="https://www.linkedin.com/in/kenzothd/" target="_blank">Linked<img alt="Kenzo's LinkedIn" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>**
 
-- <a href="https://www.buymeacoffee.com/kenzothd" align="center" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="26" width="auto"></a>
+- <a href="https://www.buymeacoffee.com/kenzothd" align="center" target="_blank"><img align="center"  src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="26" width="auto"></a>
 
 ## Here is a summary of my experiences so far: <br>
 

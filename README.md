@@ -1,4 +1,4 @@
-# Hi there, I am Kenzo 👋 <img src="https://raw.githubusercontent.com/fhsinchy/fhsinchy/master/assets/wave.gif"> ![](https://komarev.com/ghpvc/?username=Kenzothd&label=PROFILE+VIEWS&style=flat-square")
+# Hi there, I am Kenzo <img width="20px" src="https://raw.githubusercontent.com/fhsinchy/fhsinchy/master/assets/wave.gif"> ![](https://komarev.com/ghpvc/?username=Kenzothd&label=PROFILE+VIEWS&style=flat-square")
 
 I am a passionate Software Engineer with a knack for transforming data into clear and impactful insights, always looking to stay ahead of the curve with new technologies. My experience in launching an NFT website has honed my strategic thinking and problem-solving skills. I'm eager to apply my analytical and creative abilities to software development and value creation.
 

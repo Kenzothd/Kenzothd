@@ -1,4 +1,4 @@
-# Hi there, I am Kenzo 👋 ![](https://komarev.com/ghpvc/?username=Kenzothd&label=PROFILE+VIEWS&style=flat-square")
+# Hi there, I am Kenzo 👋 <img src="https://raw.githubusercontent.com/fhsinchy/fhsinchy/master/assets/wave.gif"> ![](https://komarev.com/ghpvc/?username=Kenzothd&label=PROFILE+VIEWS&style=flat-square")
 
 I am a passionate Software Engineer with a knack for transforming data into clear and impactful insights, always looking to stay ahead of the curve with new technologies. My experience in launching an NFT website has honed my strategic thinking and problem-solving skills. I'm eager to apply my analytical and creative abilities to software development and value creation.
 
@@ -40,3 +40,5 @@ This application is my first project during the SEI course in General Assembly. 
 
 [Redux To-do List](https://redux-todos-kenzothd.vercel.app/) 📝 <br >
 Utilized Redux toolkit to create a To-do list coded in typescript.
+
+[Buy Me a Coffee](https://www.buymeacoffee.com/kenzothd) ☕️

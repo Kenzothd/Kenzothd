@@ -45,4 +45,4 @@ This application is my first project during the SEI course in General Assembly. 
 [Redux To-do List](https://redux-todos-kenzothd.vercel.app/) 📝 <br >
 Utilized Redux toolkit to create a To-do list coded in typescript.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzothd&hide_progress=true)](https://github.com/kenzothd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzothd&layout=compact)](https://github.com/kenzothd/github-readme-stats)

@@ -5,6 +5,7 @@ I am a passionate Software Engineer with a knack for transforming data into clea
 I am currently working on:
 
 - Learning Java
+- Learning React Native
 - Learning Data Structures and Algorithm
 - Revising Shoedog Project (Reference: <a href="https://www.figma.com/file/R3KFHdSDhXDEP2dcyy4HSv/ShoeDog?node-id=0%3A1&t=cmePQZLjIHfMzRKh-1" target="_blank">Shoedog Figma</a> , <a href="https://drive.google.com/file/d/1rZTL4pdaRPxEEp2aebjG9BIismeefMno/view?usp=sharing" target="_blank">Shoedog Data Flow</a>)
 
@@ -18,7 +19,7 @@ Feel free to:
 ## Here is a summary of my experiences so far: <br>
 
 ❖ Front-End: Typescript, JavaScript, ES6, React.js, Redux, REST APIs <br>
-❖ Back-End: MongoDB, Express.js, Node.js, Python, Flask, PostgreSQL, SQL, Java <br>
+❖ Back-End: MongoDB, Express.js, Node.js, Python, Flask, PostgreSQL, SQL, Java, Springboot <br>
 ❖ Familiar: HTML5, CSS3, Tailwind, Material UI <br>
 ❖ Tools: Git, NPM, VS Code, Chrome Dev tool, Vercel, Render, Cyclic <br>
 

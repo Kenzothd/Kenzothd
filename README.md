@@ -7,7 +7,6 @@ I am currently working on:
 - Learning Java
 - Learning React Native
 - Learning Data Structures and Algorithm
-- Revising Shoedog Project (Reference: <a href="https://www.figma.com/file/R3KFHdSDhXDEP2dcyy4HSv/ShoeDog?node-id=0%3A1&t=cmePQZLjIHfMzRKh-1" target="_blank">Shoedog Figma</a> , <a href="https://drive.google.com/file/d/1rZTL4pdaRPxEEp2aebjG9BIismeefMno/view?usp=sharing" target="_blank">Shoedog Data Flow</a>)
 
 Feel free to:
 
@@ -25,7 +24,7 @@ Feel free to:
 
 ## Check out my recent work:
 
-[ShoeDog](https://shoedog.vercel.app/) 👟📊 (In progress) <br>
+[ShoeDog](https://shoedog.vercel.app/) 👟📊 (Reference: <a href="https://www.figma.com/file/R3KFHdSDhXDEP2dcyy4HSv/ShoeDog?node-id=0%3A1&t=cmePQZLjIHfMzRKh-1" target="_blank">Shoedog Figma</a> , <a href="https://drive.google.com/file/d/1rZTL4pdaRPxEEp2aebjG9BIismeefMno/view?usp=sharing" target="_blank">Shoedog Data Flow</a>) <br>
 Introducing ShoeDog, the revolutionary e-commerce marketplace for shoe enthusiasts. Built with the latest technologies such as ReactTS, Flask, Python, and PostgreSQL, it offers access to more than 100,000 mocked shoe listing data, real-time alerts for your favourite shoe, and the ability to track the status of those hard-to-find shoes.
 
 [IDealify](https://idealify.vercel.app/) 🏠 <br>

@@ -26,7 +26,7 @@ Feel free to:
 
 [ProNef](https://interact-native.on.fleek.co/) <br>
 ProNef is a NFT marketplace built with React Native and hosted on an IPFS server with an unstoppable domain name. This platform offers a secure, decentralised, and innovative solution for buyers and sellers of NFTs.<br>
-Unstoppable Domain URL: [interactnative.blockchain](interactnative.blockchain)
+Unstoppable Domain URL: interactnative.blockchain (Ensure you have installed unstoppable domains extension before proceeding)
 
 [ShoeDog](https://shoedog.vercel.app/) 👟📊 <br>
 Introducing ShoeDog, the revolutionary e-commerce marketplace for shoe enthusiasts. Built with the latest technologies such as ReactTS, Flask, Python, and PostgreSQL, it offers access to more than 100,000 mocked shoe listing data, real-time alerts for your favourite shoe, and the ability to track the status of those hard-to-find shoes. <br>

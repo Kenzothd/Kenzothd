@@ -24,7 +24,10 @@ Feel free to:
 
 ## Check out my recent work:
 
-[ProNef](https://interact-native.on.fleek.co/) <br>
+[Codex](https://codex-kenzo.vercel.app/) 🤖 <br>
+Codex is an exceptional web app chatbot, coded with OpenAI's ChatGPT API to revolutionize coding. It assists developers by delivering lightning-fast solutions to complex problems, providing real-time feedback and suggestions for improvements.
+
+[ProNef](https://interact-native.on.fleek.co/) 🤳 <br>
 ProNef is a NFT marketplace built with React Native and hosted on an IPFS server with an unstoppable domain name. This platform offers a secure, decentralised, and innovative solution for buyers and sellers of NFTs.<br>
 Unstoppable Domain URL: interactnative.blockchain (Ensure you have installed unstoppable domains extension before proceeding)
 
